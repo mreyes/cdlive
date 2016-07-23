@@ -16,6 +16,7 @@ public class CdliveApplication {
 		return "Hi";
 	}
 
+	
 	public static void main(String[] args) {
 		SpringApplication.run(CdliveApplication.class, args);
 	}
